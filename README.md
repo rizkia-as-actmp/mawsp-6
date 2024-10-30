@@ -10,7 +10,7 @@
 Berikut adalah desain figma dari tugas minggu sebelumnya yang sudah ditambahkan.
 
 <div style="padding-left:50px; padding-top:50px;">
-    <img src="https://i.imgur.com/h3vWQBhl.png" alt="Contoh resource">
+    <img src="https://i.imgur.com/h3vWQBhl.png" alt="Contoh resource" width="700">
 </div>
 
 untuk melakukan konversi dari desain figma ke kode flutter kita bisa gunakan layanan dari web seperti dhiwise.com.
