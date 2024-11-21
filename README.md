@@ -30,8 +30,12 @@ setelah kode digenerate kita bisa langsung copy kan saja pada project kita,
 <img src="https://i.imgur.com/DTTO8zDl.png" alt="Contoh resource">
 
  namun kita tetap perlu melakukan penyesuaian lagi pada kode tersebut. agar hasilnya lebih baik.
- 
+
+ # NOTE ABOUT OTP, Payment Gateway
+ OTP : akan menggunakan fungsionalitas dari pocketbase untuk mengirim email berisi otp
+ Payment Gateway: akan menggunakan layanan payment gateway dari tripay
+ API : menggunakan fungsionalitas API bawaan dari pocketbase. untuk fungsi yang tidak bisa dilakukan oleh API bawaan kita lakukan extending menggunakan bahasa pemrograman JS atau GO untuk menambahkan API baru atau mengkustomisasi fungsionalitas API bawaan  
  # OTP
  # Payment Gateway
- # Intergrasi API ke A plikasi
+ # Intergrasi API ke Aplikasi
 
